@@ -39,8 +39,8 @@ function copy(dts) {
 myobj = {
   'rdt_un' : '( My Username = python03lover )',
   'rdt_sb' : '( Message = python03lover is not shadowbanned. )',
-  'rdt_pu' : '( My Profile URL = https://www.reddit.com/python03lover/ )',
-  'rdt_uu' : '( My Upvotes URL = https://www.reddit.com/python03lover/upvoted )',
+  'rdt_pu' : '( My Profile URL = https://www.reddit.com/user/python03lover/ )',
+  'rdt_uu' : '( My Upvotes URL = https://www.reddit.com/user/python03lover/upvoted )',
   'twr_un' : '( My Twitter Handel/Username = @VasteAditya )',
   'twr_pu' : '( My Account URL = https://mobile.twitter.com/VasteAditya )',
   'twr_nm' : '( My Twitter Name = Aditya Vaste )',
