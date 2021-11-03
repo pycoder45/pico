@@ -37,10 +37,10 @@ function copy(dts) {
   document.body.removeChild(aux)
 }
 myobj = {
-  'rdt_un' : '( python01lover )',
-  'rdt_sb' : '( Message = python01lover is not shadowbanned. )',
-  'rdt_pu' : '( https://www.reddit.com/user/python01lover/ )',
-  'rdt_uu' : '( https://www.reddit.com/user/python01lover/upvoted )',
+  'rdt_un' : 'python01lover  ',
+  'rdt_sb' : 'python01lover is not shadowbanned.   ',
+  'rdt_pu' : 'https://www.reddit.com/user/python01lover/   ',
+  'rdt_uu' : 'https://www.reddit.com/user/python01lover/upvoted   ',
   'twr_un' : '( My Twitter Handel/Username = @VasteAditya )',
   'twr_pu' : '( My Account URL = https://mobile.twitter.com/VasteAditya )',
   'twr_nm' : '( My Twitter Name = Aditya Vaste )',
@@ -101,10 +101,10 @@ function changeit() {
   argm = Number(document.querySelector('#clc').value)
   console.log(argm);
   myobj = {
-    'rdt_un': '( python01lover )',
-    'rdt_sb': '( python01lover is not shadowbanned. )',
-    'rdt_pu': '( https://www.reddit.com/user/python01lover/ )',
-    'rdt_uu': '( https://www.reddit.com/user/python01lover/upvoted )',
+    'rdt_un': 'python01lover   ',
+    'rdt_sb': 'python01lover is not shadowbanned.   ',
+    'rdt_pu': 'https://www.reddit.com/user/python01lover/   ',
+    'rdt_uu': 'https://www.reddit.com/user/python01lover/upvoted  )',
     'twr_un': '( My Twitter Handel/Username = @VasteAditya )',
     'twr_pu': '( My Account URL = https://mobile.twitter.com/VasteAditya )',
     'twr_nm': '( My Twitter Name = Aditya Vaste )',
